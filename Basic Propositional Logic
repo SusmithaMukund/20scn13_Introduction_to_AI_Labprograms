@@ -1,0 +1,8 @@
+## change a and b accordingly
+a = True
+b = True
+print(('a and b is',a and b))
+print(('a or b is',a or b))
+print(('not a is',not a))
+print(('not a or b is', not a or b))
+print(('(not a or b) and (not b or a)', (not a or b) and (not b or a)))
